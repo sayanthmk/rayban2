@@ -1,0 +1,340 @@
+.first{
+    width:100%;
+    height:50px;
+    background-color:#e4ddddc2;
+}
+.truck{
+    width:50px;
+    height:50px;
+    margin-top:0;
+    margin-left: 48%;
+    padding-top: 7px;
+}
+.heading{
+    width: fit-content;
+    height: 20px;
+    font-size: 15px;
+    font-weight: 100;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-style: arial;
+    margin-top: -58px;
+    margin-left: 37%;
+}
+.truck p{
+    margin-left: -172px;
+    margin-top: 13px;
+}
+.logo{
+    width: 100%;
+    height: 65px;
+    background-color:#ffff;
+    position: sticky;
+    top:0;
+}
+.logo1{
+    width: 81px;
+    height: 68px;
+    margin-left: 100px;
+}
+.rblogo{
+    display: inline-flex;
+}
+.primary{
+    display: inline-flex;
+    margin-left: 100px;
+    margin-top: 4px;
+    color:black;
+    font-family:monospace;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.end{
+    display: inline-flex;
+    margin-left: 250px;
+    cursor: pointer;
+    
+}
+.end p{
+    margin-left: 20px;
+}
+.image1{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.text1{
+    position:absolute;
+    color: black;
+    font-size: 26px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    margin-left: 700px;
+    margin-top: 400px;
+    cursor: pointer;
+}
+.text1:hover{
+color: red;
+}
+.photos{
+     background-image: url(RBimages/realrayban.jpg);
+     background-size: 100%;
+    width: 100%;
+    height: 500px;
+
+}
+.middle{
+    width: 100%;
+    height: 200px;
+    background-color:#ffff;
+}
+.gift{
+    font-size: 29px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    ;
+    font-weight: 900;
+    color: black;
+    margin-top: 0;
+    margin-left: 493px;
+    padding-top: 77px;
+
+}
+.badge{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: sans-serif;
+    color: black;
+    margin-top: 0;
+    margin-left: 463px;
+    padding-top: 0px;
+
+}
+.icons{
+    width: 100%;
+    height: 92px;
+    background-color:#ffff;
+
+}
+.icons{
+    display: inline-flex;
+}
+.ic1{
+    border-radius: 50%;
+    width: 64px;
+    height: 66px;
+    margin-top: 24px;
+    margin-left: 174px;
+}
+.icontext{
+    width: 100%;
+    height: 25px;
+    background-color: #ffff;
+}
+.ictxt1,.ictxt2,.ictxt3,.ictxt4,.ictxt5{
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-left: 98px;
+    margin-top: 1px;
+    word-spacing: 10px;
+    display: inline-flex;
+    color: rgb(175, 166, 175);
+}
+.ictxt1{
+    margin-left: 179px;
+}
+.ictxt2{
+    margin-left: 178px;
+}
+.ictxt3{
+    margin-left: 166px;
+}
+.ictxt4{
+    margin-left: 117px;
+}
+.ictxt5{
+    margin-left: 98px;
+}
+.glass{
+    width: 100%;
+    height:750px;
+display: inline-flex;
+}
+.g1{
+    width: 620px;
+    height: 700px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.g2{
+    width: 50%;
+    height: 700px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.glasstext{
+    width: 100%;
+    height: 100px;
+    background-color: #ffff;
+}
+.gt1{
+    color: black;
+    font-size: 18px;
+    margin-left: 44%;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+}
+.gt2{
+    color: black;
+    font-size: 16px;
+    margin-left: 41%;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+.cooling{
+    width: 100%;
+    height:300px;
+    background-color:#9b93931c;
+    display: inline-flex;
+}
+.cl1{
+    height: 76%;
+    width: 15%;
+    margin-top: 50px;
+    margin-left: 119px;
+    display: inline-flex;
+}
+.most{
+    width: 100%;
+    height: 200px;
+    background-color:#ffff;
+
+}
+.m1{
+    font-size: 22px;
+    font-family: sans-serif;
+    margin-left: 43%;
+    margin-top: 0px;
+    color: black;
+    padding-top: 88px;
+    font-weight: 500;
+}
+.v1{
+    font-size: 13px;
+    font-family: sans-serif;
+    margin-left: 48%;
+    margin-top: -18px;
+    color: black;
+}
+.sunglass{
+    width: 100%;
+    height: 200px;
+    background-color:#9b93931c;
+}
+.sg1{
+    height: 81%;
+    width: 12%;
+    margin-top: 24px;
+    margin-left: 137px;
+    display: inline-flex; 
+    padding: 10px; 
+}
+.footphoto{
+    width: 100%;
+    height: 400px;
+    background-color:#ffff;
+
+}
+.ff1{
+    width: 645px;
+    height: 366px;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: inline-flex
+}
+.last1{
+    width: 237px;
+    height: 100px;
+    background-color:#ffff;
+    margin-left: 10px;
+}
+.last2{
+    width: 700px;
+    height: 100px;
+    background-color:#ffff;
+    margin-left: 380px;
+}
+.titan,.made{
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 6%;
+    margin-top: 3px;
+    color: black;
+    font-weight: 900;
+    width: 50%;
+}
+.coll{
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-left: 39%;
+    margin-top: 13px;
+    color: black;
+    font-weight: 900;
+}
+.whole{
+    display: inline-flex;
+}
+.final{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    display: inline-flex;
+}
+.mail{
+    margin-left: 6px;
+    margin-top: 13px;
+    color: #ffffff;
+    font-size: 20px;
+}
+.txtm{
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-left: 1%;
+    margin-top: 13px;
+    font-weight: 900;
+    color: #fff;
+} 
+.click{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+      
+}
+.para1{
+    color: #ffff;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-left: 0;
+    margin-top: 0px;
+    font-weight: 300;
+}
+.socialmedia{
+    width: 100%;
+    height: 50px;
+    color: white;
+    background-color:black;   
+    display: inline-flex;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.done{
+    margin-left: 45%;
+}
+.done1{
+    margin-left: 10px;
+}
